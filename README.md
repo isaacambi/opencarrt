@@ -20,6 +20,8 @@
 ## Overview  
 ''' sudo apt update -y ''' #update the operating system
 
+'''sudo apt install apache2'''  #Install Apache web Server
+
 
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-8892BF.svg?style=flat-square)](https://php.net/)
 [![GitHub release](https://img.shields.io/github/v/release/opencart/opencart)](https://github.com/opencart/opencart)
